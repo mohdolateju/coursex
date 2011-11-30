@@ -77,10 +77,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="13" selection-start="1590" selection-end="1590" vertical-scroll-proportion="0.93703705">
+            <state line="15" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="-10.2">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_header.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="17" selection-start="36" selection-end="36" vertical-scroll-proportion="0.063079774">
               <folding />
             </state>
           </provider>
@@ -89,7 +98,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="25" selection-start="314" selection-end="314" vertical-scroll-proportion="-7.8461537">
+            <state line="10" column="30" selection-start="248" selection-end="248" vertical-scroll-proportion="-6.5384617">
               <folding />
             </state>
           </provider>
@@ -132,6 +141,7 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/public/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_header.erb" />
       </list>
     </option>
   </component>
@@ -364,6 +374,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\rails\coursex\app\views\layouts" />
       <recent name="C:\dev\rails\coursex\public\stylesheets" />
     </key>
   </component>
@@ -638,13 +649,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Ruby192/lib/ruby/gems/1.9.1/gems/sorcery-0.7.5/lib/generators/sorcery/templates/initializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Ruby192/lib/ruby/gems/1.9.1/gems/sorcery-0.7.5/lib/sorcery/controller/submodules/external.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="36" selection-start="971" selection-end="971" vertical-scroll-proportion="-9.88">
@@ -738,14 +742,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="25" selection-start="314" selection-end="314" vertical-scroll-proportion="-7.8461537">
+        <state line="10" column="30" selection-start="248" selection-end="248" vertical-scroll-proportion="-6.5384617">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="13" selection-start="1590" selection-end="1590" vertical-scroll-proportion="0.93703705">
+        <state line="15" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="-10.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17" selection-start="36" selection-end="36" vertical-scroll-proportion="0.063079774">
           <folding />
         </state>
       </provider>

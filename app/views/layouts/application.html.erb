@@ -7,6 +7,8 @@
   <%= csrf_meta_tag %>
 </head>
 <body class="<%= params[:controller] %>">
+
+<%= render 'layouts/header' %>
 <div id="container">
   <div class="user_nav">
     <% if current_user %>
