@@ -7,12 +7,87 @@
 */
 
 
-#header {
-    background-color: #334;
-    color: #FFF;
-    padding: 4px 100px;
-    border-bottom: solid 5px #00395A;
+#header-wrap {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
+
+#header-container {
+    height: 80px;
+    background-color: #334;
+}
+
+#header {
+    width: 940px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #334;
+}
+
+#header h1 {
+    color: #beffbf;
+    text-align: left;
+    float: left;
+    width: 30px;
+    margin: 0;
+    position: absolute;
+    left: 0;
+    top: 20px;
+}
+
+#header h1 em{
+    color: #334;
+    font-size: large;
+    display: block;
+}
+
+#header ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    top: 35px;
+    right: 0;
+}
+
+#header ul li {
+    float: left;
+    margin-right: 5px;
+}
+
+.link_to{
+    color: #beffbf;
+    font-weight: bold;
+    font-size: 1.4em;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+.logged_in{
+    color: #beffbf;
+}
+
+.feedback{
+    background:url("/images/feedback_tab_white.png") no-repeat scroll 50% 50% #334;
+    display:block;
+    height:90px;
+    line-height:0;
+    padding:5px;
+    position:fixed;
+    right:0;
+/*left:0;*/
+    text-indent:-99999px;
+    top:50%;
+    width:22px;
+}
+
+
+#header ul li a:hover {
+    color: #beffbf;
+}
+
 
 #footer  {
     color: #FFF;
@@ -58,7 +133,7 @@ a {
   background-color: #FFF;
   padding: 20px 40px;
   border: solid 1px black;
-  margin-top: 20px;
+  margin-top: 100px;
 }
 
 #flash_notice, #flash_error, #flash_alert {
