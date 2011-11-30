@@ -23,28 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sorcery.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://C:/Ruby192/lib/ruby/gems/1.9.1/gems/sorcery-0.7.5/lib/sorcery.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="25" selection-start="1262" selection-end="1263" vertical-scroll-proportion="-16.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="32" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="43" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
+            <state line="19" column="1" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -77,19 +59,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="-10.2">
+            <state line="19" column="38" selection-start="560" selection-end="560" vertical-scroll-proportion="0.5277778">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_header.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_header.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="17" selection-start="36" selection-end="36" vertical-scroll-proportion="0.063079774">
+            <state line="2" column="17" selection-start="36" selection-end="36" vertical-scroll-proportion="-1.3076923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="5" selection-start="143" selection-end="143" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
@@ -98,7 +89,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="30" selection-start="248" selection-end="248" vertical-scroll-proportion="-6.5384617">
+            <state line="10" column="0" selection-start="218" selection-end="248" vertical-scroll-proportion="-6.5384617">
               <folding />
             </state>
           </provider>
@@ -138,10 +129,11 @@
         <option value="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
         <option value="$PROJECT_DIR$/config/initializers/sorcery.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/public/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/_header.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_footer.erb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/public/stylesheets/application.css" />
       </list>
     </option>
   </component>
@@ -183,10 +175,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="coursex" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -304,6 +292,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -649,20 +641,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Ruby192/lib/ruby/gems/1.9.1/gems/sorcery-0.7.5/lib/sorcery/controller/submodules/external.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="36" selection-start="971" selection-end="971" vertical-scroll-proportion="-9.88">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Ruby192/lib/ruby/gems/1.9.1/gems/sorcery-0.7.5/lib/sorcery/controller/submodules/session_timeout.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="49" selection-start="1038" selection-end="1038" vertical-scroll-proportion="-12.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Ruby192/lib/ruby/gems/1.9.1/gems/sorcery-0.7.5/lib/sorcery/controller/submodules/activity_logging.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="66" selection-start="117" selection-end="123" vertical-scroll-proportion="-2.04">
@@ -705,13 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="43" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="56" selection-start="356" selection-end="356" vertical-scroll-proportion="-7.8461537">
@@ -740,23 +711,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17" selection-start="36" selection-end="36" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="30" selection-start="248" selection-end="248" vertical-scroll-proportion="-6.5384617">
+        <state line="10" column="0" selection-start="218" selection-end="248" vertical-scroll-proportion="-6.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="5" selection-start="143" selection-end="143" vertical-scroll-proportion="-4.576923">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="-10.2">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="36" selection-end="36" vertical-scroll-proportion="0.063079774">
+        <state line="19" column="38" selection-start="560" selection-end="560" vertical-scroll-proportion="0.5277778">
           <folding />
         </state>
       </provider>

@@ -14,6 +14,24 @@
     border-bottom: solid 5px #00395A;
 }
 
+#footer  {
+    color: #FFF;
+    padding: 4px 4px;
+    /*border-top: solid 2px #00395a;*/
+    border-bottom: solid 2px #00395A;
+    height: 35px;
+    text-align: center;
+}
+
+#footer ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0.2em 0;
+    color:#ff0000;
+    text-align: center;
+}
+
+
 html, body {
   background-color: #f2f2f2;
   font-family: Verdana, Helvetica, Arial;

@@ -7,6 +7,7 @@ Coursex::Application.routes.draw do
   resources :sessions
 
 
+
   get "sessions/new"
 
   get "users/new"
@@ -14,6 +15,9 @@ Coursex::Application.routes.draw do
   get "pages/home"
 
   get "pages/contact"
+
+  match '/contact' , :to => 'pages#contact'
+
 
   root :to=> 'pages#home'
 
